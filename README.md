@@ -3,6 +3,7 @@
 **Restaurant Sales Exploratory Data Analysis**
 
 **Project Overview**
+
 This project performs exploratory data analysis (EDA) on restaurant billing and sales data to understand revenue patterns, customer spending behavior, and top-selling menu items.
 
 **Dataset Description**
@@ -27,7 +28,7 @@ Basic data checks include:
 - **Data types and summary statistics**
 - **Missing value analysis**
 
-##**Key Analysis Performed**
+**Key Analysis Performed**
 
 - **Total revenue and average bill value per invoice**
 - **Count of unique invoices**
@@ -38,14 +39,14 @@ Basic data checks include:
 - **Relationship between quantity sold and revenue**
 - **Item contributing the highest percentage of total revenue**
 
-##**Tools and Libraries Used**
+**Tools and Libraries Used**
 
 - **Python**
 - **pandas**
 - **numpy**
 - **matplotlib**
 
-##**How to Run the Project**
+**How to Run the Project**
 Clone the repository:
 git clone https://github.com/your-username/restaurant-sales-eda.git
 
