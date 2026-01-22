@@ -21,7 +21,7 @@ After merging both datasets, the final data contains:
 - **Date** – transaction date  
 
 
-##**Data Cleaning and Checks**
+**Data Cleaning and Checks**
 Basic data checks include:
 
 - **Dataset shape and structure**
@@ -56,5 +56,5 @@ Then:
 - **Run all cells sequentially**
 
 
-##**Conclusion**
+**Conclusion**
 The analysis shows that items with high sales quantity do not always generate high revenue, highlighting the importance of pricing strategy along with demand.
